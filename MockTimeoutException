@@ -1,0 +1,4 @@
+Mockito.mock(method()).thenThrow(ReadTimeoutException.INSTANCE)
+
+
+// RETURNS 408 REQUEST TIMEOUT
